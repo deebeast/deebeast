@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like to play football, cricker, basketball, volleyball, running and cs go :gun:. I guess fun fact is understood.
 
 [1]: https://twitter.com/deepak_hun
-[1.1]: ![Chamber Logo](assets/icons with padding/twitter.png) (twitter icon with padding)
+
+[1.1]: ![Chamber Logo](assets/icons with padding/twitter.png)
