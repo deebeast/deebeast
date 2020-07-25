@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on tooling or automation (i have new :love: for opensource )
 - 🤔 I’m looking for help with new opportunities for work
 - 💬 Ask me about me. I love to interact with new people.
-- 📫 How to reach me: :bird: [deepak_hun]: https://twitter.com/deepak_hun
+- 📫 How to reach me: follow me Ping me on [![twitter][1.1]][1] 
 - 😄 Pronouns: ... what ..?
 - ⚡ Fun fact: I like to play football, cricker, basketball, volleyball, running and cs go :gun:. I guess fun fact is understood.
+
+[1]: https://twitter.com/deepak_hun
+[1.1]: ![Chamber Logo](assets/icons with padding/twitter.png) (twitter icon with padding)
