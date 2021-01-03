@@ -3,7 +3,7 @@
 
 [1]: http://www.twitter.com/deepak_hun
 
-[2]: https://github.com/deebeast/deebeast/blob/master/images/twitter.png (http://www.twitter.com/deepak_hun)
+[2]: https://github.com/deebeast/deebeast/blob/main/images/twitter.png (http://www.twitter.com/deepak_hun)
 
 <!--
 **deebeast/deebeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
