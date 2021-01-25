@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Deepak <a href="https://dev.to/deebeast"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Deepak Vishwakarma's DEV Community Profile" height="30" width="30"> </a> my dev profile
-
+### Hi there 👋 I'm Deepak <a href="https://dev.to/deebeast"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Deepak Vishwakarma's DEV Community Profile" height="30" width="30"> </a>
 
 [1]: http://www.twitter.com/deepak_hun
 
