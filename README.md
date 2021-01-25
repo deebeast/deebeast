@@ -1,6 +1,4 @@
-### Hi there 👋 I'm Deepak <a href="https://dev.to/deebeast"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Deepak Vishwakarma's DEV Community Profile" height="30" width="30"> </a>
-
-
+### Hi there 👋 I'm Deepak 
 
 [1]: http://www.twitter.com/deepak_hun
 
@@ -30,3 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... he/him/his
 - ⚡ Fun fact: I like to play `football`, `cricker`, `basketball`, `volleyball`, `running` and `cs go` :gun:. I guess fun fact is understood.
                Recently started learning kalimba and its fun.
+- <a href="https://dev.to/deebeast"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Deepak Vishwakarma's DEV Community Profile" height="30" width="30"> </a> my dev profile
