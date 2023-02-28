@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about me. I love to `interact` with new people.
 - 📫 How to reach me: `follow me` Ping me on [![http://www.twitter.com/deepak_hun][2]][1]
 - 😄 Pronouns: ... he/him/his
-- ⚡ Fun fact: I like to play `football`, `cricker`, `basketball`, `volleyball`, `running` and `cs go` :gun:. I guess fun fact is understood.
+- ⚡ Fun fact: I like to play `football`, `cricket`, `basketball`, `volleyball`, `running` and `cs go` :gun:. I guess fun fact is understood.
                Recently started learning kalimba and its fun.
